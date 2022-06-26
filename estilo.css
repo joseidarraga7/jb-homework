@@ -34,7 +34,7 @@ main img{
 }
 
 
-main embed{
+main iframe{
     margin: 10px auto;
     border-radius: 8px;
     width: 560px;
